@@ -5,8 +5,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "banner1": "url('./banner-fotos.jpg')",
-        "banner2": "url('./banner-globos.jpg')",
+        "banner1": "url('/public/banner-fotos.jpg')",
+        "banner2": "url('/public/banner-globos.jpg')",
       },
       plugins: [],
     },
