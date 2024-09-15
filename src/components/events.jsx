@@ -31,7 +31,7 @@ export function Events() {
 
   return (
     <section className="py-16" id="proyectos">
-      <div className="container mx-auto px-12">
+      <div className="container mx-auto px-4 md:px-12">
         <h2 className="text-2xl font-extrabold text-teal-800 dark:text-teal-500 mb-8 text-center">
           ÚLTIMOS{"  "}
           <span className="text-slate-700 dark:text-white">PROYECTOS</span>
