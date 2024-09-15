@@ -10,6 +10,8 @@ import { Mission } from "./components/mission.jsx";
 import { Info } from "./components/info.jsx";
 import { Events } from "./components/events.jsx";
 import { Form } from "./components/form.jsx";
+import { Banner } from "./components/banner.jsx";
+import { Banner2 } from "./components/banner2.jsx";
 
 
 function App() {
@@ -20,10 +22,12 @@ function App() {
       
       <Header />
       <Hero />
+      <Banner />
       <Info />
       <Events />
       <Mission />
       <Form />
+      <Banner2 />
       <Footer />
       
     </div>

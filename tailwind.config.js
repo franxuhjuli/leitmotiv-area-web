@@ -4,8 +4,11 @@ export default {
   darkMode: "class",
   theme: {
     extend: {
-      
+      backgroundImage: {
+        "banner1": "url('./banner-fotos.jpg')",
+        "banner2": "url('./banner-globos.jpg')",
+      },
+      plugins: [],
     },
-    plugins: [],
   },
 };

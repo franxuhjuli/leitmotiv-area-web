@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 export function Slider() {
   const [currentSlide, setCurrentSlide] = useState(0);
 
-  const images = ["./globos.jpg", "./grafiti.jpg", "./gente.jpg", "./gente2.jpg","./fotos.jpg","./globo_terraqueo.jpg","./insignias.jpg","./punto_vista.jpg",];
+  const images = ["./globo_terraqueo.jpg","./grafiti.jpg", "./gente.jpg", "./gente2.jpg","./insignias.jpg","./punto_vista.jpg",];
 
   const nextSlide = () => {
     setCurrentSlide((prev) => (prev + 1) % images.length);

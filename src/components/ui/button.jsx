@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 export function Button(props) {
   return (
     <button
-      className="px-4 py-2 rounded-md bg-white text-teal-700 hover:bg-slate-200 hover:font-bold font-semibold transition-colors"
+      className="px-4 py-2 rounded-md bg-slate-200 text-teal-700 hover:bg-slate-200 hover:font-bold font-semibold transition-colors"
       onClick={props.onClick}
     >{props.text}</button>
   );
