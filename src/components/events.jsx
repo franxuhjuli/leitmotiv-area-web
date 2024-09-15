@@ -8,7 +8,7 @@ export function Events() {
         
       date: "2024-07-09",
       location: "El Borge, Malaga, SPAIN",
-      image: "./public/reaccion.jpg",
+      image: "./reaccion.jpg",
     },
     {
       title: "Training Course - inc.Sports/in Spain",
@@ -16,7 +16,7 @@ export function Events() {
       "Formación Erasmus+ para 20 trabajadores juveniles de 7 países de 8 dias de duración, con el objetivo de usar el deporte como herramienta de inclusión social para migrantes y refugiados.",
       date: "2024-05-18",
       location: "Robledo, Albacete, SPAIN",
-      image: "./public/sport.jpg",
+      image: "./sport.jpg",
     },
     {
       title: "Music In - Multiplier Event",
@@ -25,7 +25,7 @@ export function Events() {
        
       date: "2023-06-29",
       location: "San Javier, Murcia, SPAIN",
-      image: "./public/music.jpg",
+      image: "./music.jpg",
     },
   ];
 
