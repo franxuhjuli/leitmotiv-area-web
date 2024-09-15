@@ -10,7 +10,7 @@ export function Hero() {
           LEITMOTIV{" "}
           <span className="text-slate-800">AREA</span>
         </h1>
-        <p className="text-3xl text-bold mb-8">
+        <p className="text-xl md:text-3xl text-bold  mb-4 md:mb-8">
           "Cultura que une, movimientos creativos que generan comunidad e
           impulsan el cambio"
         </p>

@@ -40,7 +40,7 @@ export function Events() {
           {events.map((event, index) => (
             <div
               key={index}
-              className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg hover:scale-105"
+              className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-lg lg:hover:scale-105"
             >
               <div className="flex items-center p-4 bg-teal-600 text-white">
                 <div>
