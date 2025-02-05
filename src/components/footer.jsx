@@ -93,7 +93,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t-2 border-teal-800 dark:border-slate-700 text-center text-slate-700 dark:text-slate-300">
-          <p>&copy; 2025 Leitmotiv Area. Todos los derechos reservados. | Web creada por <a href="" target="_blank" rel="noopener noreferrer">F.J.Alvarez</a></p>
+          <p>&copy; 2025 Leitmotiv Area. Todos los derechos reservados. | Creado por <a href="" target="_blank" rel="noopener noreferrer">F.J.Alvarez</a></p>
         </div>
       </div>
     </footer>
